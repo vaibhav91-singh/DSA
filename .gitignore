@@ -1,4 +1,22 @@
+﻿# Compiled Java files
 *.class
-.git/
-*.class
-.git/
+
+# Build directories
+bin/
+out/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle/Maven
+.gradle/
+.m2/
+target/
+
+# VS Code
+.vscode/
